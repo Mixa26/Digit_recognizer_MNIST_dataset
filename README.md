@@ -1,7 +1,8 @@
 # Digit_recognizer_MNIST_dataset
 AI model for recognizing hand written digits.
 <hr>
-##Short explanation of the files<br>
+
+## Short explanation of the files<br>
 The whole project is briefly explained in the digit-recognizer.ipynb file.<br>
 All the data for running the project is stored in the data folder.<br>
 The train.csv was used for training and validating the data, the test.csv is<br>
